@@ -9,7 +9,7 @@ categories: jekyll update
 
 * The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
+* Feel free to add images too! You need only replace the placeholder image links! 
 * Or, you can always create new entries as you see fit by following the guides on this site.
 
 
