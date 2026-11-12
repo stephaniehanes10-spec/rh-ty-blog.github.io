@@ -15,7 +15,6 @@ categories: jekyll update
 
 ## Monday
 
-
 ---
 
 
